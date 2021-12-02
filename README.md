@@ -50,7 +50,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="75" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/ogzmsl/ogzmsl/87ccc09c3db0d3506616a37c0789aafe3fb814a5/Sketch.svg" alt="Sketch" height="75" />  
 </div>
 
 </td><td valign="top" width="33%">
