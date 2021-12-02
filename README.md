@@ -3,7 +3,7 @@
 </div>  
   
 
-# I'm Oguz, a Python Developer 🚀🐍  
+# I'm Oguz, Python Developer 🚀🐍  
   
 
 - 🔭 I'm currently working on [Hand Detection](https://github.com/ogzmsl/HandDetection)  
