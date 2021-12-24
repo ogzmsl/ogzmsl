@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img src="https://raw.githubusercontent.com/ogzmsl/ogzmsl/main/github-pro.jpg" align="center" style="width: 100%" />
-</div>  
+</div>  -->
   
 
 # I'm Oguz, Python Developer 🚀🐍  
@@ -16,7 +16,7 @@
   
 
 <br/>  
-
+<!--
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ogzmsl&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
@@ -68,7 +68,7 @@
 </td></tr></table>  
 
 <br/>  
-
+-->
 
 ## Connect with me  
 <div align="center">
