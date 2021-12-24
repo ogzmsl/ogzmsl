@@ -71,7 +71,7 @@
 -->
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/ogzmsl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -84,15 +84,7 @@
 <a href="https://www.behance.net/oguzmuslu" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ogzmsl&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=ogzmsl&&style=flat-square" align="right" />
+  </a>
+</div>   
