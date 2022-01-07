@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on [Hand Detection](https://github.com/ogzmsl/HandDetection)  
   
 
-- 🌱 I’m currently learning [OPENCV](https://opencv.org/) [Pytorch - Detector 2](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/) and [GPT3 Datasets](https://en.wikipedia.org/wiki/GPT-3)  
+- 🌱 I’m currently learning [OPENCV](https://opencv.org/), [Pytorch - Detector 2](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/) and [GPT3 Datasets](https://en.wikipedia.org/wiki/GPT-3)  
 
 - ❓ Ask me anything with technologies related to [WordPress](https://tr.wordpress.org//) and [AWS Services](https://aws.amazon.com/)  
   
