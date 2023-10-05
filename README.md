@@ -3,7 +3,7 @@
 </div>  -->
   
 
-# I'm Oguz, Python Developer 🚀🐍  
+# I'm Oguz, Realtime Game VFX Artist on Unity 🚀🐍  
   
 
 - 🔭 I'm currently working on [Hand Detection](https://github.com/ogzmsl/HandDetection)  
