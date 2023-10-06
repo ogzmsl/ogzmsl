@@ -3,7 +3,7 @@
 </div>  -->
   
 
-# I'm Oguz, Realtime Game VFX Artist on Unity 🚀🐍  
+# I'm Oguz, Realtime Game VFX Artist on Unity 🚀🐱‍🏍🐱‍👓🐱‍👤💣
   
 
 - 🔭 I'm currently working on [Unity VFX Artist][https://artstation.com/oguzmuslu]
